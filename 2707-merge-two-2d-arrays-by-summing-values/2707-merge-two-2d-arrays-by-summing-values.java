@@ -3,29 +3,39 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        Map<Integer,Integer> map = new HashMap<>();
-
-        for(int i =0; i<m; i++) {
-            map.put(nums1[i][0], nums1[i][1]);
-        }
-
-        for(int j=0; j<n; j++) {
-            if( map.containsKey(nums2[j][0]) ) {
-                map.put( nums2[j][0], map.get(nums2[j][0]) + nums2[j][1] );
+        ArrayList<int[]> result = new ArrayList<>();
+        int i = 0, j = 0;
+        while(i < m && j < n) {
+            if(nums1[i][0] < nums2[j][0]) {
+                result.add(nums1[i]);
+                i++;
+            }
+            else if(nums2[j][0] < nums1[i][0]) {
+                result.add(nums2[j]);
+                j++;
             }
             else {
-                map.put(nums2[j][0], nums2[j][1]);
+                result.add(new int[]{nums1[i][0], nums1[i][1] + nums2[j][1]});
+                i++;
+                j++;
             }
         }
 
-        TreeMap<Integer,Integer> tmap = new TreeMap<>(map);
-        int[][] result = new int[tmap.size()][2];
-        int i = 0;
-        for(HashMap.Entry<Integer,Integer> ent : tmap.entrySet()) {
-            result[i] = new int[]{ent.getKey(), ent.getValue()};
+        while(i < m) {
+            result.add(nums1[i]);
             i++;
         }
 
-        return result;
-    }   
+        while(j < n) {
+            result.add(nums2[j]);
+            j++;
+        }
+
+        int[][] resultArr = new int[result.size()][2];
+        for(i = 0; i<result.size(); i++) {
+            resultArr[i] = result.get(i);
+        }
+
+        return resultArr;
+    }
 }
