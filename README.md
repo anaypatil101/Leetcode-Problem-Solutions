@@ -20,4 +20,8 @@ Repository of my solutions to leetcode problems in Java.
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
