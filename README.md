@@ -1,5 +1,5 @@
 # Leetcode-Problems
-Repository of my solutions to leetcode problems in Java.
+Repository of my leetcode problem solutions in Java.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
