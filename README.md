@@ -8,6 +8,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -23,6 +24,7 @@ Repository of my leetcode problem solutions in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -38,6 +40,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -65,6 +68,7 @@ Repository of my leetcode problem solutions in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
@@ -76,4 +80,12 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
