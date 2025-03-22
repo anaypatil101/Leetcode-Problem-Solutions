@@ -13,6 +13,7 @@ Repository of my leetcode problem solutions in Java.
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -35,6 +36,7 @@ Repository of my leetcode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -88,4 +90,8 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
