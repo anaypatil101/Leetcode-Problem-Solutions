@@ -18,6 +18,7 @@ Repository of my leetcode problem solutions in Java.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
