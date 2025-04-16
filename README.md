@@ -7,6 +7,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ Repository of my leetcode problem solutions in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
