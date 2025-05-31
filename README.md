@@ -26,6 +26,7 @@ Repository of my leetcode problem solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -47,6 +48,7 @@ Repository of my leetcode problem solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -126,4 +128,8 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
