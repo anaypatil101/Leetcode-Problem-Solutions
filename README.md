@@ -54,6 +54,7 @@ Repository of my leetcode problem solutions in Java.
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -132,4 +133,12 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
