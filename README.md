@@ -122,6 +122,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,4 +161,8 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
