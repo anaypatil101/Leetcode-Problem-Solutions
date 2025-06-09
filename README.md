@@ -169,4 +169,5 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
