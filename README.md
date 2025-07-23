@@ -8,6 +8,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -183,4 +184,8 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
