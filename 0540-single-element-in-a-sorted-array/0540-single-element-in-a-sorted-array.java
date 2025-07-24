@@ -5,19 +5,26 @@ class Solution {
         }
 
         int n = nums.length;
-
-        Map<Integer, Integer> frequency = new HashMap<>();
-
+        int count = 0;
+        int curr = -1;
+        
         for(int num : nums) {
-            frequency.put(num, frequency.getOrDefault(num, 0) + 1);
-        }
-
-        for(Map.Entry<Integer,Integer> entry : frequency.entrySet()) {
-            if(frequency.get(entry.getKey()) == 1) {
-                return entry.getKey();
+            
+            if(curr != num) {
+                if(count == 1) {
+                    return curr;
+                }
+                else {
+                    curr = num;
+                    count = 1;
+                }
             }
-        }
+            else {
+                count++;
+            }
+        }   
 
-        return -1;
+
+        return curr;
     } 
 }
