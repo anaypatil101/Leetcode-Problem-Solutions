@@ -15,22 +15,21 @@ class Solution {
             return null;
         }
 
-        List<Integer> nodes = new ArrayList<>();
-        ListNode curr = head;
-        while(curr != null) {   
-            nodes.add(curr.val);
-            curr = curr.next;
+        ListNode curr, prev, front;
+        curr = head;
+        prev = null;
+        front = curr.next;
+
+        while(curr != null) {
+            curr.next = prev;
+            prev = curr;
+            curr = front;
+            
+            if(front != null) {
+                front = front.next;   //front.next
+            }
         }
 
-        ListNode newHead = new ListNode(nodes.get(nodes.size() - 1));
-        curr = newHead;
-        for(int i=nodes.size() - 2; i>=0; i--) {
-            ListNode newNode = new ListNode();
-            newNode.val = nodes.get(i);
-            curr.next = newNode;
-            curr = curr.next;
-        }
-
-        return newHead;
+        return prev;
     }
 }
