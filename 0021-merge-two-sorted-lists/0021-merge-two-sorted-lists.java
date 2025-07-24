@@ -13,7 +13,11 @@ class Solution {
 
         if(list1 == null && list2 == null) return null;
 
-         ListNode curr1 = list1, curr2 = list2;
+        if(list1 == null) return list2;
+        if(list2 == null) return list1;
+
+
+        ListNode curr1 = list1, curr2 = list2;
         ListNode newHead = new ListNode();  
         ListNode curr3 = newHead;
 
