@@ -191,4 +191,12 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
