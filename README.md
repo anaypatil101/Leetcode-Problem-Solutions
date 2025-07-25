@@ -30,6 +30,7 @@ Repository of my leetcode problem solutions in Java.
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Repository of my leetcode problem solutions in Java.
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Repository of my leetcode problem solutions in Java.
 | [0135-candy](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0135-candy) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
