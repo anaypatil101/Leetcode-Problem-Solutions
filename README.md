@@ -9,6 +9,7 @@ Repository of my leetcode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0135-candy) |
@@ -200,6 +201,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 ## Linked List
 |  |
