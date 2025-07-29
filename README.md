@@ -15,6 +15,7 @@ Repository of my leetcode problem solutions in Java.
 | [0135-candy](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -203,6 +204,7 @@ Repository of my leetcode problem solutions in Java.
 | [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
 | ------- |
