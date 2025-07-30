@@ -11,12 +11,11 @@ class Solution {
                 count++;
             }
 
-            i++;
-
-            if(i == n) {
-                result.append(s.substring(left,i));
+            if(i == n - 1) {
+                result.append(s.substring(left,i+1));
             }
 
+            i++;
         }
 
         return result.toString();
