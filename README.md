@@ -21,6 +21,7 @@ Repository of my leetcode problem solutions in Java.
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -63,6 +64,7 @@ Repository of my leetcode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -139,6 +141,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Simulation
