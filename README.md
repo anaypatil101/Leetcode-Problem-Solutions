@@ -66,6 +66,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -205,6 +206,7 @@ Repository of my leetcode problem solutions in Java.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Union Find
 |  |
@@ -228,10 +230,12 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
