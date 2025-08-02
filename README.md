@@ -70,6 +70,7 @@ Repository of my leetcode problem solutions in Java.
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -232,6 +233,7 @@ Repository of my leetcode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
