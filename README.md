@@ -20,6 +20,7 @@ Repository of my leetcode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -69,6 +70,7 @@ Repository of my leetcode problem solutions in Java.
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -123,6 +125,7 @@ Repository of my leetcode problem solutions in Java.
 | [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -144,6 +147,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
