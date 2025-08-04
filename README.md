@@ -105,6 +105,7 @@ Repository of my leetcode problem solutions in Java.
 | [1944-truncate-sentence](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -161,6 +162,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
+| [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Union Find
 |  |
