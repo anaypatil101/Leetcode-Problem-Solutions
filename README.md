@@ -78,6 +78,7 @@ Repository of my leetcode problem solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
