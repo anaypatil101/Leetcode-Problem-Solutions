@@ -246,6 +246,7 @@ Repository of my leetcode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
