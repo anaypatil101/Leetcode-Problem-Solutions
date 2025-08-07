@@ -66,6 +66,7 @@ Repository of my leetcode problem solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
@@ -241,6 +242,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
