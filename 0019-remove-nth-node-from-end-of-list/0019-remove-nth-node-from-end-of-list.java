@@ -14,19 +14,18 @@ class Solution {
             return null;
         }
 
-        List<ListNode> nodeList = new ArrayList<>();
-        ListNode curr = head;
-        while(curr != null) {
-            nodeList.add(curr);
-            curr = curr.next;
-        }
-        int size = nodeList.size();
+        ListNode slow = head, fast = head;
 
-        if(size == n) return head.next;
-        
-        curr = nodeList.get(size - n - 1);
-        curr.next = curr.next.next;
+        for(int i=1; i<=n; i++) fast = fast.next;
 
+        if(fast == null) return head.next;
+
+        while(fast.next != null) {
+            fast = fast.next;
+            slow = slow.next;
+        } 
+
+        slow.next = slow.next.next;
         return head;
     }
 }
