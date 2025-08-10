@@ -263,4 +263,8 @@ Repository of my leetcode problem solutions in Java.
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
