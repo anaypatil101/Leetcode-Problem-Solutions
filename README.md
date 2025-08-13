@@ -267,4 +267,5 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1908-recyclable-and-low-fat-products](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
