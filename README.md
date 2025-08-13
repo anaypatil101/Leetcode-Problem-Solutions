@@ -271,6 +271,7 @@ Repository of my leetcode problem solutions in Java.
 | [1153-product-sales-analysis-i](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
