@@ -269,6 +269,7 @@ Repository of my leetcode problem solutions in Java.
 | [0181-employees-earning-more-than-their-managers](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
