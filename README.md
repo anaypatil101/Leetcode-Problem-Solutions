@@ -14,6 +14,7 @@ Repository of my leetcode problem solutions in Java.
 | [0066-plus-one](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
