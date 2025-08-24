@@ -294,4 +294,5 @@ Repository of my leetcode problem solutions in Java.
 | [1827-invalid-tweets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
