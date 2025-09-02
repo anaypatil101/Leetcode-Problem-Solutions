@@ -11,6 +11,7 @@ Repository of my leetcode problem solutions in Java.
 | [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -103,6 +104,7 @@ Repository of my leetcode problem solutions in Java.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -177,6 +179,7 @@ Repository of my leetcode problem solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
