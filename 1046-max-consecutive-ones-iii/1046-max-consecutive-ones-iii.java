@@ -7,16 +7,12 @@ class Solution {
         while(r < n) {
             if(nums[r] == 0) zeroes++;
 
-            if(zeroes > k) {
-                while(zeroes > k) {
-                    if(nums[l] == 0) zeroes--;
-                    l++;
-                }
+            while(zeroes > k) {
+                if(nums[l] == 0) zeroes--;
+                l++;
             }
-            else {
-                int len = r - l + 1;
-                maxLen = Math.max(maxLen, len);
-            }
+            int len = r - l + 1;
+            maxLen = Math.max(maxLen, len);
             r++;
         }
         return maxLen;
