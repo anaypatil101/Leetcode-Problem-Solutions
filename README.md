@@ -28,6 +28,7 @@ Repository of my leetcode problem solutions in Java.
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
+| [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -131,6 +132,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -146,6 +148,7 @@ Repository of my leetcode problem solutions in Java.
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
@@ -158,6 +161,7 @@ Repository of my leetcode problem solutions in Java.
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
