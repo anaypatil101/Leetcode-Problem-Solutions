@@ -27,6 +27,7 @@ Repository of my leetcode problem solutions in Java.
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -61,6 +62,7 @@ Repository of my leetcode problem solutions in Java.
 | [0160-intersection-of-two-linked-lists](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -132,6 +134,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
