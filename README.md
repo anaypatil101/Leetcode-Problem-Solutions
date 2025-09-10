@@ -62,6 +62,7 @@ Repository of my leetcode problem solutions in Java.
 | [0160-intersection-of-two-linked-lists](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -119,6 +120,7 @@ Repository of my leetcode problem solutions in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1944-truncate-sentence](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1944-truncate-sentence) |
@@ -134,6 +136,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
