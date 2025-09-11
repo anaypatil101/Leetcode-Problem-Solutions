@@ -1,23 +1,24 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int n = s.length();
-        int result = 0;
-        int[] mp = new int[3]; // 0 - a, 1 - b, 2 - c
-        
-        int i = 0, j = 0;
-        while (j < n) {
-            char ch = s.charAt(j);
-            mp[ch - 'a']++;
-            
-            while (mp[0] > 0 && mp[1] > 0 && mp[2] > 0) {
-                result += (n - j);
-                mp[s.charAt(i) - 'a']--;
-                i++;
+        int n = s.length(), l = 0, r = 0;
+        int[] hash = new int[3];
+        int count = 0;
+        while(r < n) {
+            hash[s.charAt(r) - 'a']++;
+
+            while(isSatisfied(hash)) {
+                count += (n - r);
+                hash[s.charAt(l) - 'a']--;
+                l++;
             }
-            
-            j++;
+            r++;
         }
+        return count;
+    }
+    private boolean isSatisfied(int[] hash) {
+        if(hash[0] > 0 && hash[1] > 0 && hash[2] > 0) 
+            return true;
         
-        return result;
+        return false;
     }
 }
