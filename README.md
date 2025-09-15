@@ -66,6 +66,7 @@ Repository of my leetcode problem solutions in Java.
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -124,6 +125,7 @@ Repository of my leetcode problem solutions in Java.
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1944-truncate-sentence](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
