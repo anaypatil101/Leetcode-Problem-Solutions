@@ -249,6 +249,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -318,4 +319,12 @@ Repository of my leetcode problem solutions in Java.
 | [1908-recyclable-and-low-fat-products](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
