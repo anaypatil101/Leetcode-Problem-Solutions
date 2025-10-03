@@ -203,6 +203,7 @@ Repository of my leetcode problem solutions in Java.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
@@ -210,6 +211,7 @@ Repository of my leetcode problem solutions in Java.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
@@ -217,11 +219,13 @@ Repository of my leetcode problem solutions in Java.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
