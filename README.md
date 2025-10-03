@@ -204,12 +204,14 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
@@ -221,6 +223,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
@@ -251,6 +254,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0735-asteroid-collision) |
