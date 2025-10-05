@@ -52,6 +52,7 @@ Repository of my leetcode problem solutions in Java.
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -206,6 +207,7 @@ Repository of my leetcode problem solutions in Java.
 | [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
@@ -216,6 +218,7 @@ Repository of my leetcode problem solutions in Java.
 | [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
@@ -232,6 +235,7 @@ Repository of my leetcode problem solutions in Java.
 | [0100-same-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
