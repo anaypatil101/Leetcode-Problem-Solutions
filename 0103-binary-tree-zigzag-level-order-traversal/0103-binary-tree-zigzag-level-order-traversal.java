@@ -18,23 +18,25 @@ class Solution {
         if(root == null) return new ArrayList<>();
         List<List<Integer>> result = new ArrayList<>();
         Queue<TreeNode> que = new LinkedList<>();
-        int level = 1;
+        boolean isLeftToRight = true;
         que.offer(root);
 
         while(!que.isEmpty()) {
             int n = que.size();
-            List<Integer> row = new ArrayList<>();
+            List<Integer> row = new ArrayList<>(n);
             for(int i=0; i<n; i++) {
                 TreeNode curr = que.poll();
-                
+                if(isLeftToRight) {
+                    row.add(curr.val);
+                }
+                else {
+                    row.add(0,curr.val);
+                }
                 if(curr.left != null) que.offer(curr.left);
                 if(curr.right != null) que.offer(curr.right);
-
-                row.add(curr.val);
             }
-            if(level % 2 == 0) Collections.reverse(row);
             result.add(row);
-            level++;
+            isLeftToRight = !isLeftToRight;
         }
 
         return result;
