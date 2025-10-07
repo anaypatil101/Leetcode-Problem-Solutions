@@ -327,6 +327,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0176-second-highest-salary](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
