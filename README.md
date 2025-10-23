@@ -37,6 +37,7 @@ Repository of my leetcode problem solutions in Java.
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1944-truncate-sentence](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1944-truncate-sentence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -131,6 +132,7 @@ Repository of my leetcode problem solutions in Java.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1944-truncate-sentence](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -199,6 +201,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0735-asteroid-collision) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
