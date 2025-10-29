@@ -111,6 +111,7 @@ Repository of my leetcode problem solutions in Java.
 | [2649-count-total-number-of-colored-cells](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Repository of my leetcode problem solutions in Java.
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
