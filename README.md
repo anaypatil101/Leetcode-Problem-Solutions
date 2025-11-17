@@ -33,6 +33,7 @@ Repository of my leetcode problem solutions in Java.
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -118,6 +119,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -235,6 +237,7 @@ Repository of my leetcode problem solutions in Java.
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Repository of my leetcode problem solutions in Java.
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +301,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 ## Trie
 |  |
 | ------- |
