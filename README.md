@@ -32,6 +32,7 @@ Repository of my leetcode problem solutions in Java.
 | [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -119,6 +120,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
@@ -248,6 +250,7 @@ Repository of my leetcode problem solutions in Java.
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
