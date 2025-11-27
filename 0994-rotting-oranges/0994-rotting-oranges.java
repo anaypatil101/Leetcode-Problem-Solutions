@@ -13,6 +13,7 @@ class Solution {
                     fresh++;
             }
         }
+        if(fresh == 0) return 0;    //no fresh oranges, so no need to rot them
         boolean didRot = false;
         int[] delRow = {0,0,-1,1};
         int[] delCol = {-1,1,0,0};    
