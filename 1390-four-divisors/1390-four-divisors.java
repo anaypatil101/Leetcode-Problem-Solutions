@@ -8,19 +8,20 @@ class Solution {
     }
     public int calculateSum(int num) {
         int sum = 0,divCount = 0;
-        for(int i=1; i<= Math.sqrt(num); i++) {
-            if(num % i == 0) {
-                int other = num / i;
+        for(int fact=1; fact<= Math.sqrt(num); fact++) {
+            if(num % fact == 0) {
+                int other = num / fact;
 
-                if(other == i) {
+                if(other == fact) {
                     divCount++;
-                    sum += i;
+                    sum += fact;
                 }
                 else {
                     divCount += 2;
-                    sum = sum + i + other;
+                    sum = sum + fact + other;
                 }
-            } 
+            }
+            if(divCount > 4) break; 
         }
         return (divCount == 4) ? sum : 0;
     }
