@@ -229,6 +229,7 @@ Repository of my leetcode problem solutions in Java.
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Repository of my leetcode problem solutions in Java.
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Repository of my leetcode problem solutions in Java.
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Repository of my leetcode problem solutions in Java.
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
