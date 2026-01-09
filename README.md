@@ -75,6 +75,7 @@ Repository of my leetcode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -234,6 +235,7 @@ Repository of my leetcode problem solutions in Java.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -251,6 +253,7 @@ Repository of my leetcode problem solutions in Java.
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -264,6 +267,7 @@ Repository of my leetcode problem solutions in Java.
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -281,6 +285,7 @@ Repository of my leetcode problem solutions in Java.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
