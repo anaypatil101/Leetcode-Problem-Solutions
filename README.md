@@ -61,6 +61,7 @@ Repository of my leetcode problem solutions in Java.
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -144,6 +145,7 @@ Repository of my leetcode problem solutions in Java.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
