@@ -37,6 +37,7 @@ Repository of my leetcode problem solutions in Java.
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -119,6 +120,7 @@ Repository of my leetcode problem solutions in Java.
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1390-four-divisors) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -410,4 +412,8 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
