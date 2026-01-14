@@ -53,6 +53,7 @@ Repository of my leetcode problem solutions in Java.
 | [3194-find-words-containing-character](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3454-separate-squares-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -187,6 +188,7 @@ Repository of my leetcode problem solutions in Java.
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3454-separate-squares-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
@@ -416,4 +418,12 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
