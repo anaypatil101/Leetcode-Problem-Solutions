@@ -50,6 +50,7 @@ Repository of my leetcode problem solutions in Java.
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3194-find-words-containing-character](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
@@ -89,6 +90,7 @@ Repository of my leetcode problem solutions in Java.
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -314,6 +316,7 @@ Repository of my leetcode problem solutions in Java.
 ## Enumeration
 |  |
 | ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
