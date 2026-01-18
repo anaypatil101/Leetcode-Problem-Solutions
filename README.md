@@ -44,6 +44,7 @@ Repository of my leetcode problem solutions in Java.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1895-largest-magic-square](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1895-largest-magic-square) |
 | [1944-truncate-sentence](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -138,6 +139,7 @@ Repository of my leetcode problem solutions in Java.
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
+| [1895-largest-magic-square](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1895-largest-magic-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -204,6 +206,7 @@ Repository of my leetcode problem solutions in Java.
 | [0966-binary-subarrays-with-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-largest-magic-square](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1895-largest-magic-square) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
