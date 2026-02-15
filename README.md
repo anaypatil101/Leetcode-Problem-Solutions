@@ -68,6 +68,7 @@ Repository of my leetcode problem solutions in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -278,6 +279,7 @@ Repository of my leetcode problem solutions in Java.
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -297,6 +299,7 @@ Repository of my leetcode problem solutions in Java.
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
@@ -462,6 +465,7 @@ Repository of my leetcode problem solutions in Java.
 | [0207-course-schedule](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -470,5 +474,10 @@ Repository of my leetcode problem solutions in Java.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
