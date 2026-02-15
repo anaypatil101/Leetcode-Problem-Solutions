@@ -43,6 +43,7 @@ Repository of my leetcode problem solutions in Java.
 | [1390-four-divisors](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-largest-magic-square](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1895-largest-magic-square) |
@@ -142,6 +143,7 @@ Repository of my leetcode problem solutions in Java.
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1895-largest-magic-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
@@ -195,6 +197,7 @@ Repository of my leetcode problem solutions in Java.
 | [1046-max-consecutive-ones-iii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3454-separate-squares-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
@@ -280,6 +283,7 @@ Repository of my leetcode problem solutions in Java.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +302,7 @@ Repository of my leetcode problem solutions in Java.
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,6 +455,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -461,4 +467,8 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0207-course-schedule](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
