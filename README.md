@@ -27,6 +27,7 @@ Repository of my leetcode problem solutions in Java.
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -83,6 +84,7 @@ Repository of my leetcode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -159,6 +161,7 @@ Repository of my leetcode problem solutions in Java.
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -231,6 +234,7 @@ Repository of my leetcode problem solutions in Java.
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3430-count-days-without-meetings](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
@@ -277,6 +281,7 @@ Repository of my leetcode problem solutions in Java.
 | [0386-lexicographical-numbers](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -297,6 +302,7 @@ Repository of my leetcode problem solutions in Java.
 | [0210-course-schedule-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -457,6 +463,7 @@ Repository of my leetcode problem solutions in Java.
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
