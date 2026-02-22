@@ -14,6 +14,7 @@ Repository of my leetcode problem solutions in Java.
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +143,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1073-number-of-enclaves) |
@@ -193,6 +195,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
