@@ -27,6 +27,7 @@ Repository of my leetcode problem solutions in Java.
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
@@ -117,6 +118,7 @@ Repository of my leetcode problem solutions in Java.
 | [0234-palindrome-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -240,6 +242,7 @@ Repository of my leetcode problem solutions in Java.
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -360,6 +363,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0135-candy](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0135-candy) |
+| [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
