@@ -67,6 +67,7 @@ Repository of my leetcode problem solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ Repository of my leetcode problem solutions in Java.
 | [0002-add-two-numbers](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -352,6 +354,7 @@ Repository of my leetcode problem solutions in Java.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
