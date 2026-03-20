@@ -13,6 +13,7 @@ Repository of my leetcode problem solutions in Java.
 | [0046-permutations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +150,7 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0733-flood-fill) |
