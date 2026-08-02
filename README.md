@@ -28,6 +28,7 @@ Repository of my leetcode problem solutions in Java.
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@ Repository of my leetcode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -223,6 +225,7 @@ Repository of my leetcode problem solutions in Java.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -250,6 +253,7 @@ Repository of my leetcode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
 | [0941-sort-array-by-parity](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -500,6 +504,7 @@ Repository of my leetcode problem solutions in Java.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -510,4 +515,13 @@ Repository of my leetcode problem solutions in Java.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
