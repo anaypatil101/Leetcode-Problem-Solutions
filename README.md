@@ -88,6 +88,7 @@ Repository of my leetcode problem solutions in Java.
 | [0142-linked-list-cycle-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
@@ -170,6 +171,7 @@ Repository of my leetcode problem solutions in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
@@ -246,6 +248,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0721-accounts-merge) |
