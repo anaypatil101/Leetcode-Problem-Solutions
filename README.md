@@ -9,6 +9,7 @@ Repository of my leetcode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anay-Patil/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
@@ -85,6 +86,7 @@ Repository of my leetcode problem solutions in Java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -153,6 +155,7 @@ Repository of my leetcode problem solutions in Java.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anaypatil101/Leetcode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
